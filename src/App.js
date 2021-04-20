@@ -227,13 +227,12 @@ class App extends Component {
           </Col>
           <Col >
             {  <Chart currencyData={currencyData}/>}
-            {/*teste*/}
           </Col>
         </Row>
         <Row >
           <Col className="infoProfitability">
-            <p id="teste">Rendimento Bruto: {grossYield}</p>
-            <p>Rendimento Líquido: {netYield}</p>
+            <p className="info">Rendimento Bruto: {grossYield}</p>
+            <p className="info">Rendimento Líquido: {netYield}</p>
           </Col>
         </Row>
 
