@@ -36,3 +36,33 @@
     transform: rotate(360deg);
   }
 }
+
+h1{
+  text-align: center;
+  color: #FFF;
+  background-color: #4081ec;
+  margin-top: 0;
+  padding: 1.85% 0;
+  border-radius: 10px;
+}
+
+.formInformations{
+  margin: 10px 2%;
+}
+
+.infoProfitability{
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-top: 10px;
+  color: #FFF;
+  background-color: #4081ec;
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+.btnCalcular{
+  text-align: center;
+  align-content: center;
+  align-self: center;
+}
