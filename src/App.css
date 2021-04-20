@@ -45,7 +45,7 @@ h1{
   padding: 1.85% 0;
   border-radius: 10px;
   font-weight: bold;
-  font-size: 5rem;
+  font-size: 3rem;
 }
 
 .formInformations{
@@ -56,8 +56,8 @@ h1{
   margin-top: 20px;
   margin-left: 20px;
   margin-right: 20px;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 7px;
+  padding-bottom: 7px;
   color: #FFF;
   background-color: #4081ec;
   border-radius: 10px;
@@ -71,5 +71,5 @@ h1{
 }
 
 .info{
-  padding: 1rem;
+  padding: 0.5rem;
 }
